@@ -1,0 +1,13 @@
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.exe
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.deps.json
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.runtimeconfig.json
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.runtimeconfig.dev.json
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.dll
+C:\Users\Storm\source\repos\MVP\MVP\bin\Debug\netcoreapp3.1\MVP.pdb
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.csprojAssemblyReference.cache
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.AssemblyInfoInputs.cache
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.AssemblyInfo.cs
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.csproj.CoreCompileInputs.cache
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.dll
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.pdb
+C:\Users\Storm\source\repos\MVP\MVP\obj\Debug\netcoreapp3.1\MVP.genruntimeconfig.cache
