@@ -5,23 +5,29 @@ namespace ToDoList.ConsoleApp
 {
     class ToDoList
     {
+        /// <summary>
+        /// Все приватные поля начинаем с символа _
+        /// Все публичные свойства с заглавной буквы
+        /// </summary>
+        /// 
+        
         public ToDoList()
         {
             
         }
-        private string name;
-        private string task;
-        public DateTime createDate { get; set; } = DateTime.Now;
+        private string _name;
+        private string _task;
+        public DateTime CreateDate { get; set; } = DateTime.Now;
 
         public string Name
         {
-            get { return name; }
-            set { name = value; }
+            get { return _name; }
+            set { _name = value; }
         }
         public string Task
         {
-            get { return task; }
-            set { task = value; }
+            get { return _task; }
+            set { _task = value; }
         }
 
         public void PrintText()
@@ -34,7 +40,7 @@ namespace ToDoList.ConsoleApp
         }
         public void PrintDate()
         {
-            Console.WriteLine($"Время создания задачи: {createDate}");
+            Console.WriteLine($"Время создания задачи: {CreateDate}");
         }
     }
 }
